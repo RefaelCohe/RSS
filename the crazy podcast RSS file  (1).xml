@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:castbox="http://castbox.fm/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+    <channel>
+        <atom:link href="http://rss.castbox.fm/everest/d2bd26e78a624fcab21d8906e1fd75a5.xml" type="application/rss+xml" rel="self"/>
+        <copyright>&amp;copy; רפאל כהן</copyright>
+        <link>https://castbox.fm/ch/5569374</link>
+        <language>he</language>
+
+        <title>פרקי מדע אהובים</title>
+        <description><![CDATA[פלייליסט פרקי פודקאסטים שאהבתי בנושאי מדע מאוגדים תחת פיד RSS אחד, הקישורים לפרקים הם לקבצים המקוריים שפורסמו על ידי יוציר הפודקאסטים באשר הם]]></description>
+        <castbox:uid>51a422d3cdfa4735afd2544e639f944a</castbox:uid>
+        <castbox:pid>5569374</castbox:pid>
+        <castbox:type></castbox:type>
+
+        <itunes:summary><![CDATA[פלייליסט פרקי פודקאסטים שאהבתי בנושאי מדע מאוגדים תחת פיד RSS אחד, הקישורים לפרקים הם לקבצים המקוריים שפורסמו על ידי יוציר הפודקאסטים באשר הם]]></itunes:summary>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:author>רפאל כהן</itunes:author>
+
+        <itunes:owner>
+            <itunes:email>look-various0d@icloud.com</itunes:email>
+        </itunes:owner>
+
+        <itunes:image href="https://s3.castbox.fm/1e/7a/0b/3d1b6b44fcbf63047160be4e49.jpg"/>
+        <itunes:keywords>Education,Society &amp; Culture,History</itunes:keywords>
+
+        
+        
+            
+        <itunes:category text="History"/>
+            
+        
+            
+        <itunes:category text="Education"/>
+            
+        
+            
+        <itunes:category text="Society &amp; Culture"/>
+            
+        
+        
+
+        <itunes:explicit>no</itunes:explicit>
+
+        
+        <item>
+            <title>פרק 2 - הפודקאסט המשוגע</title>
+            <description><![CDATA[  <p>זה התיאור של פרק 2 של הפודקאסט המשוגע</p>  ]]></description>
+            <content:encoded><![CDATA[  <p>זה התיאור של פרק 2 של הפודקאסט המשוגע</p>  ]]></content:encoded>
+            <itunes:summary>זה התיאור של פרק 2 של הפודקאסט המשוגע</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/27/ad/6f/cb65d94586ac3c528a9570d6cb.jpg"/>
+            <enclosure url="https://s3.castbox.fm/89/cb/70/fd8e5746ca9df05727b8d5b9c1.mp3" type="audio/mp3" length="1573341"/>
+            <itunes:duration>00:01:38</itunes:duration>
+            <guid isPermaLink="false">album-d2bd26e78a624fcab21d8906e1fd75a5-cf9ef30d84d0454d96f19d9f7fd639c4</guid>
+            <pubDate>Wed, 30 Aug 2023 14:46:49 +0000</pubDate>
+            <castbox:tid>628276882</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>עושים עתיד | פרופ' עילם גרוס: התעלומות הגדולות של הפיזיקה במאה ה-21</title>
+            <description><![CDATA[  <p> הפעם אני מארח את הפיזיקאי פרופ' עילם גרוס, איש מכון ויצמן למדע, שהוביל את הניסוי שבו נתגלה בוזון היגס המפורסם ("החלקיק האלוהי"). השיחה שלנו נסובה בעיקר סביב התעלומות הגדולות שניצבות לפיתחה של הפיזיקה המודרנית במאה העשרים ואחת - ומהם הכלים החדשים והניסויים המתוכננים שאולי יאפשרו להם לענות על השאלות האלה. <br /><br /><br /><br /><ul><li>על תורת המיתרים, וכיצד ניתן (אולי) להוכיח אותה,</li><li>על גלי כבידה ומה הם מגלים לנו על היקום,</li><li>האם אנחנו חיים בהולוגרמה, או לחילופין - בסימולציה?</li><li>כיצד משנה הבינה המלאכותית את הפיזיקה המודרנית,</li><li>האם יש אלוהים, ומה הקשר בינו לבין תאוריות היקומים המרובים?</li><li>ועל פרס הנובל בפיזיקה לשנת 2022 שהוענק על תגלית שמשנה לחלוטין את האופן שבו אנחנו מבינים את היקום.</li></ul>האזנה נעימה,<br />רן ]]></p>  ]]></description>
+            <content:encoded><![CDATA[  <p> הפעם אני מארח את הפיזיקאי פרופ' עילם גרוס, איש מכון ויצמן למדע, שהוביל את הניסוי שבו נתגלה בוזון היגס המפורסם ("החלקיק האלוהי"). השיחה שלנו נסובה בעיקר סביב התעלומות הגדולות שניצבות לפיתחה של הפיזיקה המודרנית במאה העשרים ואחת - ומהם הכלים החדשים והניסויים המתוכננים שאולי יאפשרו להם לענות על השאלות האלה. <br /><br /><br /><br /><ul><li>על תורת המיתרים, וכיצד ניתן (אולי) להוכיח אותה,</li><li>על גלי כבידה ומה הם מגלים לנו על היקום,</li><li>האם אנחנו חיים בהולוגרמה, או לחילופין - בסימולציה?</li><li>כיצד משנה הבינה המלאכותית את הפיזיקה המודרנית,</li><li>האם יש אלוהים, ומה הקשר בינו לבין תאוריות היקומים המרובים?</li><li>ועל פרס הנובל בפיזיקה לשנת 2022 שהוענק על תגלית שמשנה לחלוטין את האופן שבו אנחנו מבינים את היקום.</li></ul>האזנה נעימה,<br />רן ]]></p>  ]]></content:encoded>
+            <itunes:summary> הפעם אני מארח את הפיזיקאי פרופ' עילם גרוס, איש מכון ויצמן למדע, שהוביל את הניסוי שבו נתגלה בוזון היגס המפורסם ("החלקיק האלוהי"). השיחה שלנו נסובה בעיקר סביב התעלומות הגדולות שניצבות לפיתחה של הפיזיקה המודרנית במאה העשרים ואחת - ומהם הכלים החדשים והניסויים המתוכננים שאולי יאפשרו להם לענות על השאלות האלה. <br /><br /><br /><br /><ul><li>על תורת המיתרים, וכיצד ניתן (אולי) להוכיח אותה,</li><li>על גלי כבידה ומה הם מגלים לנו על היקום,</li><li>האם אנחנו חיים בהולוגרמה, או לחילופין - בסימולציה?</li><li>כיצד משנה הבינה המלאכותית את הפיזיקה המודרנית,</li><li>האם יש אלוהים, ומה הקשר בינו לבין תאוריות היקומים המרובים?</li><li>ועל פרס הנובל בפיזיקה לשנת 2022 שהוענק על תגלית שמשנה לחלוטין את האופן שבו אנחנו מבינים את היקום.</li></ul>האזנה נעימה,<br />רן ]]></itunes:summary>
+            <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f0861801f890a1a0a56c161401d781de.jpg"/>
+            <enclosure url="https://api.spreaker.com/download/episode/53482856/oa_eilam_gross.mp3" type="audio/mp3" length="81901824"/>
+            <itunes:duration>01:25:18</itunes:duration>
+            <guid isPermaLink="false">album-d2bd26e78a624fcab21d8906e1fd75a5-c0c6985413e84619b2129bd555a28075</guid>
+            <pubDate>Mon, 10 Apr 2023 03:00:02 +0000</pubDate>
+            <castbox:tid>628276512</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+    </channel>
+</rss>
